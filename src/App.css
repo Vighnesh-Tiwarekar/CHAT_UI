@@ -283,9 +283,9 @@
     left: -50vw;
     background: linear-gradient(0deg,
   #011622 0%,
-  #03344d 30%,
-  #05687a 70%,
-  #0b9aa6 100%
+  #054c70 30%,
+  #09b2cf 70%,
+  #12e2f5 100%
 );
     animation: rotateGradient 10s linear infinite;
     z-index: 0;
